@@ -227,3 +227,4 @@ console.log("Funcion evalua numeros: ",evaluarNumero(-5));
 console.log("Funcion vocal o consonante: ",vocal("r"));
 console.log("Funcion pares: ",pares());
 console.log("Funcion juego: ",juego("Piedra","Papel"));
+
