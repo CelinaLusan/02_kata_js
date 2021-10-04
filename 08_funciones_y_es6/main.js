@@ -83,7 +83,7 @@ var farenheitToCelsius = function(farenheit){
 
 	return celsius;
 
-}
+} 
 
 var farenheit = prompt("Grados farenheit");
 
@@ -101,3 +101,15 @@ var parametros = function(unos,dos){
 }
 
 console.log("Número de argumentos recibidos: ", parametros("hola",3));
+
+var asterisco="";
+for(var x=0;x<10;x++){
+	
+	for(var y=1;y<=x;y++){
+		asterisco = asterisco + "*"
+	}
+
+	console.log(asterisco);
+	//asterisco = asterisco + "*"
+	
+}
