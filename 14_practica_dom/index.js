@@ -9,7 +9,7 @@ y ademas crear un boton que cree los pasos a seguir(5 Pasos)
 PASO 1 -> cortar los tomates
 
 PASO 2 -> rebanar el queso
-*/
+*/ 
 
 
 function generarPasos(){
